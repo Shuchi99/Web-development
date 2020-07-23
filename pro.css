@@ -1,0 +1,43 @@
+html,
+body{
+  height: 100%;
+}
+ #cover {
+  background: #222 url('img5.jpg') center center no-repeat;
+ background-size: cover;
+ height: 100%;
+ text-align: center;
+ display: flex;
+ align-items: center;
+ color: white;
+}
+.container
+{
+  
+}
+#cover-caption{
+  width: 100%;
+}
+.social a{
+  font-size: 4.5em;
+  padding: 3rem;
+}
+.fa-facebook{
+  color: #3b5998;
+}
+}
+.fa-instagram{
+  color: #517fa4;
+}
+.fa-youtube{
+  color: #bb0000;
+}
+/*to get hover while clicking icons*/
+
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-google-plus-g:hover,
+.fa-instagram:hover,
+.fa-youtube:hover{
+  color: #d5d5d5;
+}

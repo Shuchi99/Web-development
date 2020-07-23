@@ -1,0 +1,18 @@
+body { padding-top: 70px; 
+	background-image:url('https://www.workflowmax.com/hubfs/budget%20900x400v2.png');
+	background-size: cover;	}
+.jumbotron1
+{
+	width: 50%;
+	float: left
+	margin-right:10px;
+	background-color: #B0E0E6;
+
+}
+.jumbotron2
+{
+	width: 50%;
+	float: right;
+	background-color:#C0C0C0;
+
+}

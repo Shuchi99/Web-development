@@ -1,0 +1,27 @@
+body
+{padding-top: 70px;
+ background-image:url('https://www.reviewpoint.com/wp-content/uploads/2019/06/review.jpg');
+	background-size: cover; }
+
+.jumbotron1
+{
+	width: 50%;
+	margin:auto auto 10px auto;	
+	justify-content: center;
+	background-color: white;
+
+}
+.checked {
+ color: orange;
+}
+.new
+{
+	border: 8px solid black;
+  border-radius: 5px;
+}
+.style
+{
+	text-align: center;
+	font-style: 'Times New Roman';
+
+}
